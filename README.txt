@@ -1,1 +1,2 @@
-This is the file created from git command line
+This is the file created from git command line.
+-- Happy learning Git--
