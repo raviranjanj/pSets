@@ -1,2 +1,2 @@
-# problem-sets
-Coding questions from various sources..(eg. Online Courses, Company Questions etc)
+# pSets
+Coding questions from various Online Courses and other sources.
