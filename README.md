@@ -1,2 +1,2 @@
 # problem-sets
-Coding questions from various sources..(eg. Courses, Company Questions etc)
+Coding questions from various sources..(eg. Online Courses, Company Questions etc)
